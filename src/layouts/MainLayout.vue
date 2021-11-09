@@ -1,8 +1,8 @@
 <template>
-  <q-layout view="lHh Lpr lFf">
-    <q-header elevated>
+  <q-layout view="lHh Lpr lff">
+    <q-header class="transparent">
       <q-toolbar>
-        <q-toolbar-title> Gifted Software </q-toolbar-title>
+        <q-toolbar-title class="q-ml-xl q-pt-md text-h4 text-weight-bold"> Gifted Software </q-toolbar-title>
 
         <q-btn stretch flat label="Home" to="/" />
         <q-btn stretch flat label="Portfolio" to="/portfolio" />
