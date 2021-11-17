@@ -38,7 +38,7 @@
       <q-card class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-xs-4 q-pa-lg">
         <q-card-section horizontal>
           <q-card-section class="q-pt-xs">
-            <div class="text-h5 q-mt-sm q-mb-xs">Meka Alarm Systems.</div>
+            <div class="text-h5 q-mt-sm q-mb-xs">Meka Alarm Systems..</div>
             <div class="text-caption text-grey">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
               eiusmod tempor incididunt ut labore et dolore magna aliqua.
