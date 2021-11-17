@@ -38,7 +38,7 @@
       <q-card class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-xs-4 q-pa-lg">
         <q-card-section horizontal>
           <q-card-section class="q-pt-xs">
-            <div class="text-h5 q-mt-sm q-mb-xs">Meka Alarm Systems</div>
+            <div class="text-h5 q-mt-sm q-mb-xs">Meka Alarm Systems.</div>
             <div class="text-caption text-grey">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
               eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -79,11 +79,11 @@
 
     <!-- Contact Section -->
     <div class="q-pa-xl row bg-grey-3">
-      <div class="col-12 text-h5 q-pb-xl">Contact</div>
+      <div class="col-12 text-h5 q-pa-xl">Want to talk about your project?</div>
       <div class="col-12">
       <div class="row">
         <div class="col-4 q-pa-lg">
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero quas omnis vero perspiciatis deserunt esse labore cupiditate eos doloribus, distinctio amet ipsum enim nam aut rerum eius blanditiis in harum.
+          Hi, I’m Anthony, CEO at Gifted Software. Fill in the form to the right and we’ll get in touch with you soon!
         </div>
         <div class="col-8">
           <div class="row">
